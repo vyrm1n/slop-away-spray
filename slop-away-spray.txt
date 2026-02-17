@@ -1,0 +1,10 @@
+//------------------------------//
+// THIS REPO IS FOR PI-HOLE
+// EVERYONE IS WELCOME TO ADD AI SLOP LINKS
+// UPDATE YOUR PI-HOLE USING:
+// 
+//
+// HELP THE COMMUNITY SEND DOMAINS HERE:
+// https://github.com/vyrm1n/slop-away-spray/issues
+// OR SUBMIT PULL REQS 
+//------------------------------//
