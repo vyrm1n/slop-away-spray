@@ -15,7 +15,7 @@ mikegravel.org
 packlisten.org
 subwaymenuprices.org
 marrakeshoasis.com
-www.centralalive.org
+centralalive.org
 
 // URLs from https://github.com/Jadde-1/AI-Slop-Blocker
 numberanalytics.com
