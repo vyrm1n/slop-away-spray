@@ -18,6 +18,7 @@ marrakeshoasis.com
 centralalive.org
 orbasics.com
 myparfum.de
+masal.store
 
 // URLs from https://github.com/Jadde-1/AI-Slop-Blocker
 numberanalytics.com
