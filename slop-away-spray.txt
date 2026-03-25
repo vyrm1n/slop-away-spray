@@ -17,6 +17,7 @@ subwaymenuprices.org
 marrakeshoasis.com
 centralalive.org
 orbasics.com
+myparfum.de
 
 // URLs from https://github.com/Jadde-1/AI-Slop-Blocker
 numberanalytics.com
