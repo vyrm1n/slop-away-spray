@@ -20,6 +20,7 @@ orbasics.com
 myparfum.de
 masal.store
 parfumseminar.de
+teacherscollegesj.org
 
 // URLs from https://github.com/Jadde-1/AI-Slop-Blocker
 numberanalytics.com
