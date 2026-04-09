@@ -21,6 +21,7 @@ myparfum.de
 masal.store
 parfumseminar.de
 teacherscollegesj.org
+gothambeautylounge.com
 
 // URLs from https://github.com/Jadde-1/AI-Slop-Blocker
 numberanalytics.com
