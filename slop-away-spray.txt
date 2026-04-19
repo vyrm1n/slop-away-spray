@@ -23,6 +23,7 @@ parfumseminar.de
 teacherscollegesj.org
 gothambeautylounge.com
 moodifylight.com
+garagewelding.com
 
 // URLs from https://github.com/Jadde-1/AI-Slop-Blocker
 numberanalytics.com
