@@ -27,7 +27,7 @@ garagewelding.com
 solar-experten.info
 mylifestyle-mentor.de
 binocularsproshop.com
-www.fluentincoffee.com
+fluentincoffee.com
 
 // URLs from https://github.com/Jadde-1/AI-Slop-Blocker
 numberanalytics.com
