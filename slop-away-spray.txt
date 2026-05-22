@@ -29,6 +29,7 @@ mylifestyle-mentor.de
 binocularsproshop.com
 fluentincoffee.com
 recharged.com
+storytellertech.com
 
 // URLs from https://github.com/Jadde-1/AI-Slop-Blocker
 numberanalytics.com
