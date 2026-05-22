@@ -9,6 +9,9 @@
 // OR SUBMIT PULL REQS 
 //------------------------------//
 
+
+// Full slop
+
 hettwer-beratung.de
 culinarybite.com
 mikegravel.org
@@ -28,10 +31,16 @@ solar-experten.info
 mylifestyle-mentor.de
 binocularsproshop.com
 fluentincoffee.com
-recharged.com
 storytellertech.com
 
+
+// Regular website with slop articles/blog
+
+recharged.com
+
+
 // URLs from https://github.com/Jadde-1/AI-Slop-Blocker
+
 numberanalytics.com
 24newsdaily.com
 allexpertmedia.com
