@@ -12,6 +12,7 @@
 
 // Full slop
 
+gedankenwelt.de
 thetechedvocate.org
 hettwer-beratung.de
 culinarybite.com
