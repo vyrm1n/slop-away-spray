@@ -12,6 +12,7 @@
 
 // Full slop
 
+elternkompass.de
 gedankenwelt.de
 thetechedvocate.org
 hettwer-beratung.de
