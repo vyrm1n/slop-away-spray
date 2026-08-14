@@ -45,6 +45,7 @@ gartenjournal.net
 // Regular website with slop articles/blog
 
 recharged.com
+medium.com/aardvark-infinity/
 
 
 // URLs from https://github.com/Jadde-1/AI-Slop-Blocker
