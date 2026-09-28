@@ -12,6 +12,7 @@
 
 // Full slop
 
+insurancy.de
 elternkompass.de
 gedankenwelt.de
 thetechedvocate.org
