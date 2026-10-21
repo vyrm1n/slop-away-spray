@@ -43,6 +43,7 @@ outdoortrekker.com
 gartenjournal.net
 switchbladegaming.com
 clrn.org
+boost.audio
 
 
 // Regular website with slop articles/blog
