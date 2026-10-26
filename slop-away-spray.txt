@@ -44,15 +44,13 @@ gartenjournal.net
 switchbladegaming.com
 clrn.org
 boost.audio
-tftcentral.co.uk
-
 
 // Regular website with slop articles/blog
 
 recharged.com
 medium.com/aardvark-infinity/
 minecraft.fandom.com // fake minecraft wiki held hostage by fandom. use minecraft dot wiki
-
+tftcentral.co.uk
 
 // URLs from https://github.com/Jadde-1/AI-Slop-Blocker
 
