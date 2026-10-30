@@ -51,6 +51,7 @@ recharged.com
 medium.com/aardvark-infinity/
 minecraft.fandom.com // fake minecraft wiki held hostage by fandom. use minecraft dot wiki
 tftcentral.co.uk
+kessel.tv
 
 // URLs from https://github.com/Jadde-1/AI-Slop-Blocker
 
