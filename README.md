@@ -6,3 +6,5 @@ This repository provides a community-maintained block list of AI-generated, low-
 These sites are often auto-generated, clickbait, or scraper content that clutters your browsing experience.
 By using this list in Pi-hole and/or uBlock Origin, you can block these sites at the DNS level and improve your internet experience.
 
+Notice: This list is very aggressive. I am actively adding sites just for having AI generated images on an otherwise human-authored site. 
+
